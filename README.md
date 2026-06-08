@@ -200,8 +200,8 @@ Positive / Neutral / Negative
 
 ## 👥 Authors
 
-- Aashi Garg
 - Aneshya Das
+- Aashi Garg
 - Arshi Arya
 - Anushka Goyal
 - Aditi
