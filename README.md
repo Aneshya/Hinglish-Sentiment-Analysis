@@ -237,7 +237,3 @@ Accepted at **NLPIR 2025 (Japan)**.
 ```
 
 ---
-
-### Repository Description
-
-> Transformer-based Hinglish sentiment analysis using mBERT on a 24K+ tweet dataset, achieving 67% weighted F1-score and outperforming traditional TF-IDF based machine learning baselines.
